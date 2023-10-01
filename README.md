@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Thiwanka Sandakalum
 
 I'm a passionate software engineer with expertise in a variety of technologies. Here's a bit about me:
 
@@ -6,16 +6,15 @@ I'm a passionate software engineer with expertise in a variety of technologies. 
 - 🌱 I'm always learning and exploring new technologies to stay up-to-date with industry trends.
 - 👯 I enjoy collaborating with others and contributing to open source projects.
 - 💬 Ask me about web development, cloud computing, and software architecture.
-- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+- 📫 Reach me at [thiwankasandakalu.m@gmailcom](mailto:thiwanka2002sandakalum@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/thiwanka-sandakalum-052801220/).
 
 ## Tech Stack
 
-- **Languages:** Python, JavaScript (Node.js), SQL
+- **Languages:** Python, JavaScript (Node.js)
 - **Web Frameworks:** Django, Flask, Express
 - **Frontend:** HTML, CSS, JavaScript (Angular)
 - **Database:** SQL, NoSQL (MongoDB)
 - **Cloud:** Azure
-- ... and more!
 
 ## Projects
 
@@ -24,7 +23,7 @@ I'm a passionate software engineer with expertise in a variety of technologies. 
 
 ## Blog
 
-I share my experiences and insights on my [blog](https://yourbloglink.com). Check out some of my latest posts:
+I share my experiences and insights on my [blog]([https://yourbloglink.com](https://green-tree-068233d10.3.azurestaticapps.net/blog)). Check out some of my latest posts:
 
 - [![Title of Blog Post 1](path/to/your/media/logo.png)](https://yourbloglink.com/post1)
   Description of Blog Post 1.
@@ -34,8 +33,7 @@ I share my experiences and insights on my [blog](https://yourbloglink.com). Chec
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [LinkedIn](https://www.linkedin.com/in/thiwanka-sandakalum-052801220/)
 - [Medium](https://medium.com/@yourmediumusername)
 
 Feel free to explore my repositories, and if you find something interesting or have any questions, don't hesitate to reach out. Happy coding! 🚀
