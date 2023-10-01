@@ -26,8 +26,11 @@ I'm a passionate software engineer with expertise in a variety of technologies. 
 
 I share my experiences and insights on my [blog](https://yourbloglink.com). Check out some of my latest posts:
 
-- [Title of Blog Post 1](https://yourbloglink.com/post1)
-- [Title of Blog Post 2](https://yourbloglink.com/post2)
+- [![Title of Blog Post 1](path/to/your/media/logo.png)](https://yourbloglink.com/post1)
+  Description of Blog Post 1.
+
+- [![Title of Blog Post 2](path/to/your/media/logo.png)](https://yourbloglink.com/post2)
+  Description of Blog Post 2.
 
 ## Connect with Me
 
