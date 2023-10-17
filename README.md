@@ -17,19 +17,20 @@ I'm a passionate software engineer with expertise in a variety of technologies. 
 - **Cloud:** ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Projects
-
-- [Restaurant Fullstack App - Client](https://github.com/Thiwanka-Sandakalum/resturant): Angular-based client website. [Live Demo](https://delightful-desert-090223010.4.azurestaticapps.net/)
-- [Restaurant Fullstack App - Dashboard](https://github.com/Thiwanka-Sandakalum/dashboard): Angular-based order tracking dashboard. [Live Demo](https://blue-cliff-086679510.4.azurestaticapps.net/)
+1. [Restaurant Fullstack App](https://github.com/Thiwanka-Sandakalum/restaurant-fullstack-app): A comprehensive app featuring:
+   - Angular-based client website. [Live Demo](https://delightful-desert-090223010.4.azurestaticapps.net/), [Repository](https://github.com/Thiwanka-Sandakalum/restaurant-client)
+   - Order tracking dashboard (Angular). [Live Demo](https://blue-cliff-086679510.4.azurestaticapps.net), [Repository](https://github.com/Thiwanka-Sandakalum/dashboard)
+   - Robust backend powered by Node.js Express and Azure SQL DB.
 
 ## Blog
 
 I share my experiences and insights on my [blog](https://green-tree-068233d10.3.azurestaticapps.net/blog). Check out some of my latest posts:
 
-- [![Title of Blog Post 1](path/to/your/media/logo.png)](https://yourbloglink.com/post1)
-  Description of Blog Post 1.
+1. [![Title of Blog Post 1](path/to/your/media/logo.png)](https://yourbloglink.com/post1)
+   Description of Blog Post 1.
 
-- [![Title of Blog Post 2](path/to/your/media/logo.png)](https://yourbloglink.com/post2)
-  Description of Blog Post 2.
+2. [![Title of Blog Post 2](path/to/your/media/logo.png)](https://yourbloglink.com/post2)
+   Description of Blog Post 2.
 
 ## Connect with Me
 
