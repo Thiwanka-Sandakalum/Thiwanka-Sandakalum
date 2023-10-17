@@ -18,18 +18,7 @@ I'm a passionate software engineer with expertise in a variety of technologies. 
 
 ## Projects
 
-- [Project 1](https://github.com/yourusername/project1): Brief description.
-- [Project 2](https://github.com/yourusername/project2): Brief description.
-
-## Blog
-
-I share my experiences and insights on my [blog]([https://yourbloglink.com](https://green-tree-068233d10.3.azurestaticapps.net/blog)). Check out some of my latest posts:
-
-- [![Title of Blog Post 1](path/to/your/media/logo.png)](https://yourbloglink.com/post1)
-  Description of Blog Post 1.
-
-- [![Title of Blog Post 2](path/to/your/media/logo.png)](https://yourbloglink.com/post2)
-  Description of Blog Post 2.
+- [Restaurant Fullstack App](https://github.com/yourusername/restaurant-fullstack-app): A comprehensive app featuring a client website (Angular), order tracking dashboard (Angular), and a robust backend powered by Node.js Express and Azure SQL DB.
 
 ## Connect with Me
 
