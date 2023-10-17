@@ -20,7 +20,7 @@ I'm a passionate software engineer with expertise in a variety of technologies. 
 1. [Restaurant Fullstack App](https://github.com/Thiwanka-Sandakalum/restaurant-fullstack-app): A comprehensive app featuring:
    - Angular-based client website. [Live Demo](https://delightful-desert-090223010.4.azurestaticapps.net/), [Repository](https://github.com/Thiwanka-Sandakalum/restaurant-client)
    - Order tracking dashboard (Angular). [Live Demo](https://blue-cliff-086679510.4.azurestaticapps.net), [Repository](https://github.com/Thiwanka-Sandakalum/dashboard)
-   - Robust backend powered by Node.js Express and Azure SQL DB.
+   - Robust backend powered by Node.js Express and Azure SQL DB.Host in Azure.
 
 ## Blog
 
