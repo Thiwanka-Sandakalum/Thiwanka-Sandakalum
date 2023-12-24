@@ -24,18 +24,16 @@ I'm a passionate software engineer with expertise in a variety of technologies. 
 
 ## Blog
 
-I share my experiences and insights on my [blog](https://green-tree-068233d10.3.azurestaticapps.net/blog). Check out some of my latest posts:
+I share my experiences and insights on my [blog]([https://green-tree-068233d10.3.azurestaticapps.net/blog](https://medium.com/@thiwanka2002sandakalum). Check out some of my latest posts:
 
-1. [![Title of Blog Post 1](path/to/your/media/logo.png)](https://yourbloglink.com/post1)
+1. [![About repository in github]([path/to/your/media/logo.png](https://miro.medium.com/v2/resize:fit:640/format:webp/1*rANtWFWH78wkvkSIE6r7WA.png))]([https://yourbloglink.com/post1](https://medium.com/@thiwanka2002sandakalum/how-to-store-your-repository-in-github-7d7be543bce7))
    Description of Blog Post 1.
-
-2. [![Title of Blog Post 2](path/to/your/media/logo.png)](https://yourbloglink.com/post2)
-   Description of Blog Post 2.
+   
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/thiwanka-sandakalum-052801220/)
-- [Medium](https://medium.com/@yourmediumusername)
+- [Medium]([https://medium.com/@yourmediumusername](https://medium.com/@thiwanka2002sandakalum))
 - [Personal Website](https://black-sky-08c0b4400.3.azurestaticapps.net/home)
 
 Feel free to explore my repositories, and if you find something interesting or have any questions, don't hesitate to reach out. Happy coding! 🚀
