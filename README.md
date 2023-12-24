@@ -24,16 +24,25 @@ I'm a passionate software engineer with expertise in a variety of technologies. 
 
 ## Blog
 
-I share my experiences and insights on my [blog]([https://green-tree-068233d10.3.azurestaticapps.net/blog](https://medium.com/@thiwanka2002sandakalum). Check out some of my latest posts:
+I share my experiences and insights on my [blog](https://medium.com/@thiwanka2002sandakalum). Check out some of my latest posts:
 
-1. [![About repository in github]([path/to/your/media/logo.png](https://miro.medium.com/v2/resize:fit:640/format:webp/1*rANtWFWH78wkvkSIE6r7WA.png))]([https://yourbloglink.com/post1](https://medium.com/@thiwanka2002sandakalum/how-to-store-your-repository-in-github-7d7be543bce7))
+1. [![About repository in github](https://miro.medium.com/v2/resize:fit:640/format:webp/1*rANtWFWH78wkvkSIE6r7WA.png)](https://medium.com/@thiwanka2002sandakalum/how-to-store-your-repository-in-github-7d7be543bce7)
    Description of Blog Post 1.
-   
+
+## Repository Analysis
+
+Explore insights and analytics about my GitHub repositories:
+
+- Total Repositories: ![Your Total Repositories Badge](https://img.shields.io/badge/Total%20Repositories-10-brightgreen)
+- Most Used Language: ![Most Used Language Badge](https://img.shields.io/badge/Most%20Used%20Language-Python-blue)
+- Contributions in the Last Year: ![Contributions Last Year Badge](https://img.shields.io/badge/Contributions%20Last%20Year-150%2B-brightgreen)
+- Stars Across All Repositories: ![Total Stars Badge](https://img.shields.io/badge/Total%20Stars-50%2B-yellow)
+- Followers on GitHub: ![GitHub Followers Badge](https://img.shields.io/badge/GitHub%20Followers-200%2B-orange)
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/thiwanka-sandakalum-052801220/)
-- [Medium]([https://medium.com/@yourmediumusername](https://medium.com/@thiwanka2002sandakalum))
+- [Medium](https://medium.com/@thiwanka2002sandakalum)
 - [Personal Website](https://black-sky-08c0b4400.3.azurestaticapps.net/home)
 
 Feel free to explore my repositories, and if you find something interesting or have any questions, don't hesitate to reach out. Happy coding! 🚀
