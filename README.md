@@ -1,68 +1,71 @@
+<div align="center">
+
+# Thiwanka Sandakalum
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=6C63FF&center=true&vCenter=true&width=620&lines=AI+Systems+%7C+Multi-Agent+Orchestration+%7C+RAG;LLM+Engineering+%7C+Cloud+%7C+Full-Stack;Building+intelligent+systems+that+scale" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Software Engineer focused on **AI systems design** and **intelligent backend architecture**. I build production-grade multi-agent platforms, RAG pipelines, and LLM-powered services that bridge the gap between prototype and scalable reality.
+
+* 🤖 **Orchestration:** Designing multi-agent systems with LangGraph, Google ADK, and MCP/A2A protocols.
+* 🔍 **Retrieval:** Building agentic, hybrid & graph RAG pipelines backed by Pinecone, pgvector, and Neo4j.
+* 🎙️ **Real-Time:** Shipping live voice agents with bidirectional streaming and real-time LLM inference.
+* ☁️ **Infrastructure:** Deploying AI workloads on GCP Vertex AI and Azure with containerized microservices.
+* 🧪 **Optimization:** Evaluating and fine-tuning models with RAGAS, MLflow, and LoRA.
+
+> *"Make strategy to deliver energy-saving, optimized, intelligent solutions."*
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI, LLMs & Agents
+**Orchestration** &nbsp;&nbsp; ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C2E?style=flat-square&logo=graph&logoColor=6C63FF) ![LangSmith](https://img.shields.io/badge/LangSmith-F7C948?style=flat-square&logo=langchain&logoColor=black) ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![A2A](https://img.shields.io/badge/A2A_Protocol-0F9D58?style=flat-square&logo=google&logoColor=white)  
+**RAG & Vector** &nbsp;&nbsp;&nbsp;&nbsp; ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FE5196?style=flat-square&logo=llama&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j_Graph_RAG-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MongoDB VS](https://img.shields.io/badge/MongoDB_Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+**Models & Evals** &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![vLLM](https://img.shields.io/badge/vLLM-412991?style=flat-square&logo=openai&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![RAGAS](https://img.shields.io/badge/RAGAS-E11D48?style=flat-square&logo=testinglibrary&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)  
+
+### ⚡ Backend & Architecture
+**Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)  
+**Frameworks** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)  
+**Event & Auth** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-3A8FFF?style=flat-square&logo=clerk&logoColor=white)  
+
+### 🗄️ Data, Cloud & UI
+**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
+**Infrastructure** &nbsp;&nbsp;&nbsp; ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
+**Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
+
+---
+
+## 🔭 Currently Building
+
+* **Graph Intelligence:** Agentic RAG systems with graph retrieval over Neo4j knowledge bases.
+* **Voice Engineering:** Live voice agents utilizing bidi-streaming and real-time LLM inference via vLLM.
+* **Orchestration:** Multi-agent workflows leveraging Google ADK, MCP, and A2A protocols.
+* **Model Tuning:** Fine-tuning pipelines with LoRA and comprehensive evaluations via RAGAS & MLflow.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-   <h1>Hi, I’m Thiwanka Sandakalum 👋</h1>
-   <h3>Software Engineer &mdash; AI, Cloud & Intelligent Systems</h3>
-   <p><strong>From first Python script to building scalable, multi-stack applications and cloud platforms.</strong></p>
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=for+user+in+world%3A+user.happy%28%29;deliver%28energy_saving%2C+intelligent%2C+optimized%29" alt="Typing animation: sample code"/>
-   <p><strong>Expert in clean architecture, API design, full-stack development, and resource-optimized solutions.</strong></p>
-   <blockquote><b>“Make strategy to deliver energy-saving, optimized, intelligent solutions.”</b></blockquote>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiwanka-Sandakalum&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&text_color=a6adc8&icon_color=6C63FF"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiwanka-Sandakalum&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=a6adc8"/>
 </div>
 
 ---
 
 <div align="center">
-
-## 🛠️ Core Expertise
-
+  <p>Open to <strong>AI/ML engineering</strong> · <strong>agentic systems</strong> · <strong>research collaborations</strong></p>
+  <p>📍 Sri Lanka &nbsp;·&nbsp; 🌐 Remote-friendly worldwide</p>
 </div>
-
-<p align="center">
-   <!-- Frontend & Languages -->
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-   <img src="https://img.shields.io/badge/Mantine-339af0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" alt="Mantine"/>
-   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<p align="center">
-   <!-- Backend & APIs -->
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-   <img src="https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge&logo=microgen&logoColor=white" alt="Microservices"/>
-   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
-</p>
-
-<p align="center">
-   <!-- Databases, Cloud & DevOps -->
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-</p>
-
-<p align="center">
-   <!-- Tools, Authentication & AI -->
-   <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/>
-   <img src="https://img.shields.io/badge/Clerk-3A8FFF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-   <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
-   <img src="https://img.shields.io/badge/Test%20Automation-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white" alt="Test Automation"/>
-   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
-   <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
-   <img src="https://img.shields.io/badge/Pub%2FSub-336791?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Pub/Sub"/>
-</p>
-
-
-
----
