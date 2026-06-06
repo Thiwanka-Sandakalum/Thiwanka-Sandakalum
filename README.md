@@ -3,13 +3,6 @@
 # Thiwanka Sandakalum
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=6C63FF&center=true&vCenter=true&width=620&lines=AI+Systems+%7C+Multi-Agent+Orchestration+%7C+RAG;LLM+Engineering+%7C+Cloud+%7C+Full-Stack;Building+intelligent+systems+that+scale" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
-
 </div>
 
 ---
