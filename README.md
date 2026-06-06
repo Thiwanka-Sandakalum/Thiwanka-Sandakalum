@@ -41,7 +41,7 @@ Software Engineer focused on **AI systems design** and **intelligent backend arc
 **Event & Auth** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-3A8FFF?style=flat-square&logo=clerk&logoColor=white)  
 
 ### 🗄️ Data, Cloud & UI
-**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
+**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-47A248?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
 **Infrastructure** &nbsp;&nbsp;&nbsp; ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
 **Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
 
@@ -56,16 +56,7 @@ Software Engineer focused on **AI systems design** and **intelligent backend arc
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiwanka-Sandakalum&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&text_color=a6adc8&icon_color=6C63FF"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiwanka-Sandakalum&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=a6adc8"/>
-</div>
-
----
-
-<div align="center">
-  <p>Open to <strong>AI/ML engineering</strong> · <strong>agentic systems</strong> · <strong>research collaborations</strong></p>
+  <p>Open to <strong>AI/ML engineering</strong> · <strong>software engineering</strong> · <strong>research collaborations</strong></p>
   <p>📍 Sri Lanka &nbsp;·&nbsp; 🌐 Remote-friendly worldwide</p>
 </div>
